@@ -1,0 +1,10 @@
+D:\Openbsd backup\skypeutilities\Skype Utillities\bin\Debug\Skype Utilities.exe.config
+D:\Openbsd backup\skypeutilities\Skype Utillities\bin\Debug\Skype Utilities.exe
+D:\Openbsd backup\skypeutilities\Skype Utillities\bin\Debug\Skype Utilities.pdb
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\Skype Utilities.csprojAssemblyReference.cache
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\SkypeUtillities.MainForm.resources
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\SkypeUtilities.Properties.Resources.resources
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\Skype Utilities.csproj.GenerateResource.cache
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\Skype Utilities.csproj.CoreCompileInputs.cache
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\Skype Utilities.exe
+D:\Openbsd backup\skypeutilities\Skype Utillities\obj\Debug\Skype Utilities.pdb
